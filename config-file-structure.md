@@ -11,6 +11,10 @@
 }
 ```
 
+[input types reference](https://www.w3schools.com/html/html_form_input_types.asp)
+
+[input tag](https://www.w3schools.com/tags/tag_input.asp)
+
 ### select field
 ```
 {
@@ -28,10 +32,10 @@
 }
 ```
 
-[input types reference](https://www.w3schools.com/html/html_form_input_types.asp)
-
+[select tag](https://www.w3schools.com/tags/tag_select.asp)
 
 -----------
+
 ```
 {
     "name": string,
